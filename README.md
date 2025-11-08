@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server implementation for deepdive deployment scenarios.
 
+<a href="https://glama.ai/mcp/servers/@abckiran/mcpServerexample">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@abckiran/mcpServerexample/badge" alt="Server Deepdive MCP server" />
+</a>
+
 ## Installation
 
 ### Using uvx (Recommended)
